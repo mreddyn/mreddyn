@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**ManikantaReddyN/ManikantaReddyN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏽‍💻  I’m currently studying as a Software Engineer- Web intern at [RED Digital Cinema](https://red.com/) 
+- 🌱  I’m currently learning Python, Machine learning, and much more 
+- 📫  How to reach me: [nayini@gmail.com](mailto:nayini1997@gmail.com)
+- LinkedIn: [@adityabhavikatti](https://www.linkedin.com/in/manikantareddynayini/)
+- 🕸 Website: [https://adityabhavikatti.github.io/Website/](https://adityabhavikatti.github.io/Website)
 
-Here are some ideas to get you started:
+- ⚡  Fun fact: The first domain name ever registered was [Symbolics.com](http://symbolics.com/museum/) on March 15, 1985. Presently, it serves as a historic site.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Manikanta's github stats](https://github-readme-stats.vercel.app/api?username=ManikantaReddyNi&hide=contribs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManikantaReddyN)
