@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 👨🏽‍💻  I’m currently studying as a Software Engineer- Web intern at [RED Digital Cinema](https://red.com/) 
+- 👨🏽‍💻  I’m currently doing Master of Compueter Sciecne at California State University, Fullerton.
 - 🌱  I’m currently learning Python, Machine learning, and much more 
 - 📫  How to reach me: [nayini@gmail.com](mailto:nayini1997@gmail.com)
-- LinkedIn: [@adityabhavikatti](https://www.linkedin.com/in/manikantareddynayini/)
+- LinkedIn: [@manikantareddynayini](https://www.linkedin.com/in/manikantareddynayini/)
 - 🕸 Website: [https://adityabhavikatti.github.io/Website/](https://adityabhavikatti.github.io/Website)
 
 - ⚡  Fun fact: The first domain name ever registered was [Symbolics.com](http://symbolics.com/museum/) on March 15, 1985. Presently, it serves as a historic site.
