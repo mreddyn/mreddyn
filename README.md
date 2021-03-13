@@ -2,7 +2,7 @@
 
 - 👨🏽‍💻  I’m currently doing Master of Compueter Sciecne at California State University, Fullerton.
 - 🌱  I’m currently learning Python, Machine learning, and much more 
-- 📫  How to reach me: [nayini@gmail.com](mailto:nayini1997@gmail.com)
+- 📫  How to reach me: [nayini1997@gmail.com](mailto:nayini1997@gmail.com)
 - LinkedIn: [Manikanta Reddy Nayini](https://www.linkedin.com/in/manikantareddynayini/)
 - 🕸 Website: [https://manikantareddyn.github.io/dynamic_coder/](https://manikantareddyn.github.io/dynamic_coder)
 
