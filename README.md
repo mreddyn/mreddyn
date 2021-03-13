@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨🏽‍💻  I’m currently doing Master of Compueter Sciecne at California State University, Fullerton.
+- 👨🏽‍💻  I’m doing Master of Computer Science at California State University, Fullerton.
 - 🌱  I’m currently learning Python, Machine learning, and much more 
 - 📫  How to reach me: [nayini1997@gmail.com](mailto:nayini1997@gmail.com)
 - LinkedIn: [Manikanta Reddy Nayini](https://www.linkedin.com/in/manikantareddynayini/)
