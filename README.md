@@ -11,4 +11,4 @@
 
 ![Manikanta Reddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManikantaReddyN&show_icons=true&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManikantaReddyN&show_icons=true&theme=tokyonight&hide=css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManikantaReddyN&show_icons=true&theme=tokyonight&hide=css&langs_count=8)
