@@ -1,6 +1,6 @@
 ### Hi there, I'm Manikanta Reddy👋  <div align = 'right'>![](https://komarev.com/ghpvc/?username=ManikantaReddyN&color=yellow)</div>
 
-## I'm a Software Engineer, Graduate Student, Technology Entusiast, Movie Buff !!
+### I'm a Software Engineer, Graduate Student, Technology Entusiast, Movie Buff !!
 
 - 👨🏽‍💻  I’m doing Master of Computer Science at California State University, Fullerton.
 - 🌱  I’m currently learning Python, Machine learning, and much more 
