@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I am into manga and movies.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
 <a href="https://linkedin.com/in/manikantareddynayini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="manikantareddynayini" height="30" width="40" /></a>
 <a href="https://medium.com/@nayini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@nayini" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/manikantareddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="manikantareddy" height="30" width="40" /></a>
