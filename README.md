@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **django, elasticsearch**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ManikantaReddyN](https://github.com/painbhai)
+- 👨‍💻 All of my projects are available [here](https://github.com/painbhai)
 
 - 💬 Ask me about **java, horror movies, manga, coding.**
 
